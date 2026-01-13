@@ -6,15 +6,17 @@ This project analyzes telecom service quality (QoS) in Rwanda using data science
 
 
 ## Key Components
-- Data cleaning and preprocessing scripts are located in `notebooks/data_cleaning.py`
-- Exploratory data analysis and Machine learning models are implemented is in `notebooks/EDA.py`
+- Data cleaning and preprocessing scripts are located in `notebook/data_cleaning.py`
+- Exploratory data analysis and Machine learning models are implemented is in `notebook/EDA.py`
+- model perfomance and matrix  are in `notebook/Modeling.py`
 - Dashboard  of power BI is located in the `notebook/ final report /augustinndayamabaje.pbix` 
-
+- most of  output of the project are located in the `SCREENSHOOT`
 ## How to Run the Project
 1. Clone the repository
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
+ LINK :https://github.com/Auguchris/-Team-6-Augustin-Ndayambaje-submit-project.git
+2. ## How to Run
+1. Clone this repo to Team-6-Augustin-Ndayambaje-submit-project.
+2. Install required packages: `pip install -r requirements.txt`
 # Team Members
 
-Ndayambaje Augustin –  team 6 Data processing, modeling, visualization, and reporting
+Ndayambaje Augustin –  team 6  dsci cohort1 

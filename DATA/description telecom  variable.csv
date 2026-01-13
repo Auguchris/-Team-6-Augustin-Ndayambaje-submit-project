@@ -1,5 +1,5 @@
 Column Name,Description,Unit / Type
-timestamp,Date and time when the QoS measurement was recorded,DateTime
+year ,Date and time when the QoS measurement was recorded,DateTime
 operator,"Mobile Network Operator providing the service (e.g., MTN, Airtel)",Categorical
 district,Administrative district in Rwanda where the measurement was taken,Categorical
 cell_id,Unique identifier of the cellular base station (cell tower),Categorical / ID
@@ -20,3 +20,5 @@ mos_voice,Mean Opinion Score representing voice call quality,Scale (1–5)
 customer_reported_qoe_score,User-perceived quality of experience rating,Numerical score
 Data_Usage_MB,Volume of data consumed by users during the session,Megabytes (MB)
 satisfaction_label,"Overall customer satisfaction classification (Good, Neutral, Poor)",Categorical (Target Variable)
+,,
+,,
